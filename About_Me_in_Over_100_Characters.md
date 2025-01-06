@@ -2,12 +2,13 @@
 title: 'About Me in Over 100 Characters'
 slug: 'about-me'
 featured: true
+description: 'Briefly about my journey in the world of technology.'
 published_at: '2025-01-03'
 ---
 
 When I accidentally started my professional career in web development 
 in early 2022, at the age of 17, what I really wanted to do was 
-to get into cybersecurity after getting a few certificates—or, 
+to get into cybersecurity after getting a few certificates---or, 
 with a bit of luck, create video games. I kept programming in my free time, 
 and my experience with the sorry state of the frontend industry 
 eventually led me into learning Go and writing more things from scratch, 
