@@ -38,7 +38,7 @@ in contrast to high-level languages with named variables.
 This is not a problem if you're willing to do it by yourself, 
 after a while, working with assembly gets a bit more natural.
 
-**The RISC-V Reader: An Open Architecture Atlas**
+**The RISC-V Reader: An Open Architecture Atlas**  
 *by David Patterson and Andrew Waterman*
 
 A book that calls itself an atlas, and pretty much fulfills 
@@ -65,15 +65,15 @@ so you shouldn't be disappointed with it.
 
 ## Not Recommended
 
-**Verilog by Example: A Concise Introduction for FPGA Design**
+**Verilog by Example: A Concise Introduction for FPGA Design**  
 *by Blaine C. Readler*
 
 I got disappointed by this book, it provided very few examples, 
 and all of them were very basic, nothing more than what you 
 can find in a more practical book for beginners, 
 where you can learn something more than just the syntax. 
-Instead, you should check out "Getting Started with FPGAs" 
-by Russell Merrick.
+You should check out "Getting Started with FPGAs" 
+by Russell Merrick instead.
 
 Most of the text was descriptions of examples, but nothing 
 that couldn't be guessed simply by looking at the code. 
