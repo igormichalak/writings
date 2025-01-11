@@ -38,6 +38,8 @@ in contrast to high-level languages with named variables.
 This is not a problem if you're willing to do it by yourself, 
 after a while, working with assembly gets a bit more natural.
 
+<br>
+
 **The RISC-V Reader: An Open Architecture Atlas**  
 *by David Patterson and Andrew Waterman*
 
