@@ -37,3 +37,45 @@ simply because you have only generic register names
 in contrast to high-level languages with named variables. 
 This is not a problem if you're willing to do it by yourself, 
 after a while, working with assembly gets a bit more natural.
+
+**The RISC-V Reader: An Open Architecture Atlas**
+*by David Patterson and Andrew Waterman*
+
+A book that calls itself an atlas, and pretty much fulfills 
+that role. It's neither a trivial introduction to RISC-V, 
+nor a comprehensive reference or a full story of its development, 
+but it consists of bits of all these ideas.
+
+Inside, you can find the rationale behind the design decisions, 
+various insights, interesting technical details and comparisons 
+with other architectures preceding RISC-V, 
+such as MIPS, x86 and older ARM.
+
+It covers most of the basic ISA (instruction set architecture) extensions, 
+introduces the 64-bit base version (RV64), and describes 
+the privilege modes. There is also reference material, 
+such as instruction descriptions and encodings. 
+They can be useful, but digital references, 
+will always be more handy than a physical book in a small form factor.
+
+All in all, it's a great book for RISC-V enthusiasts, 
+if only because it's written by two of the most important RISC-V designers. 
+It's quite short, but fairly priced, 
+so you shouldn't be disappointed with it.
+
+## Not Recommended
+
+**Verilog by Example: A Concise Introduction for FPGA Design**
+*by Blaine C. Readler*
+
+I got disappointed by this book, it provided very few examples, 
+and all of them were very basic, nothing more than what you 
+can find in a more practical book for beginners, 
+where you can learn something more than just the syntax. 
+Instead, you should check out "Getting Started with FPGAs" 
+by Russell Merrick.
+
+Most of the text was descriptions of examples, but nothing 
+that couldn't be guessed simply by looking at the code. 
+The rest of it wasn't interesting, 
+and I didn't learn anything useful about digital circuit design.
